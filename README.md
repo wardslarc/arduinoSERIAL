@@ -39,10 +39,4 @@ You can customize the script according to your specific requirements:
 
 The script includes error handling for common exceptions, such as ValueError (when converting values to float), mysql.connector.Error (for database-related errors), and serial.SerialException (for serial port communication issues). Error messages will be displayed in the console.
 
-## License
 
-This code is provided under the [MIT License](LICENSE).
-
----
-
-Feel free to further customize this README as needed for your specific project.
